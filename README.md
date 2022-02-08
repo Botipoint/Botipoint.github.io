@@ -13,6 +13,7 @@
 <a href="https://discord.gg/EEvMfTZdEw" style="text-align: center;color: white;font-size: large;">Chillerbot Support Discord</a>
 <h2 style="text-align:center;color: white;font-size: xx-large;">fokkonaut's stuff</h2>
 <a href="https://discord.gg/qccRrtb" style="text-align: center;color: white;font-size: large;">fokkonaut's playground discord</a>
+<a href="https://fokkonaut.de" style="text-align: center;color: white;font-size: large;">fokkonaut.de</a>
 <style>
     body {
       background-image: url('amongus.png');
